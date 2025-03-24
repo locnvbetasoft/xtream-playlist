@@ -15,21 +15,13 @@ Example of IPTV code format:
 ## Playlist
 
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
-  ```
-ServerUrl: http://m3u.sstv.one:80
-Username: NUTV
-Password: 68593867
-   ```
+
   ```
 ServerUrl: http://dnsco.xyz:8080
 Username: 1smart256342
 Password: phCswtc
    ```
-  ```
-ServerUrl: http://xvip.pro:80
-Username: 01092443771
-Password: 3771omar
-   ```
+
   ```
 ServerUrl: http://totalplay.site:80
 Username: ALEXIS2025
@@ -40,16 +32,8 @@ ServerUrl: http://line.rs6ott.com:80
 Username: 79a9c2a5f6
 Password: 4ac8b05e238c
    ```
-  ```
-ServerUrl: http://bostv.one:8080
-Username: jilen
-Password: 1234
-   ```
-  ```
-ServerUrl: http://starshare.org:8080
-Username: xtream_share
-Password: Xtream_Public_Share
-   ```
+
+
 
     
 
