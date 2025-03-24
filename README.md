@@ -46,9 +46,9 @@ Username: jilen
 Password: 1234
    ```
   ```
-ServerUrl: http://cr-play.tv:80
-Username: GustavoACR
-Password: SWJRR
+ServerUrl: http://starshare.org:8080
+Username: xtream_share
+Password: Xtream_Public_Share
    ```
 
     
