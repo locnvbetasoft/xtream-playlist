@@ -4,13 +4,6 @@ This is an M3U8 playlist and Xtream playlist for free channels around the World.
 
 Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing experience. With these links, you can easily access TV shows, movies, series, and sports games streaming by simply using an M3u8 playlist url or Xtream url
 
-## Format
-Example of IPTV code format:
-   ```
-   ServerUrl: http://network.com:1234
-   Username: hello
-   Password: 123456
-   ```
 
 ## Playlist
 
