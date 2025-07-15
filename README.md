@@ -10,15 +10,15 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
   ```
-ServerUrl: http://dnsco.xyz:8080
-Username: 1smart256342
-Password: phCswtc
+ServerUrl: http://m3u.sstv.one:80
+Username: NUTV
+Password: 68593867
    ```
 
   ```
-ServerUrl: http://totalplay.site:80
-Username: ALEXIS2025
-Password: zff7M7BtM8
+ServerUrl: https://ab2w.info
+Username: 513100555
+Password: 568570887
    ```
   ```
 ServerUrl: http://line.rs6ott.com:80
