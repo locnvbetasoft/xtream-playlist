@@ -9,12 +9,7 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
-  ```
-ServerUrl: http://m3u.sstv.one:80
-Username: NUTV
-Password: 68593867
-   ```
-
+ 
   ```
 ServerUrl: http://nodns1.top:8080
 Username: 7891733910053632
