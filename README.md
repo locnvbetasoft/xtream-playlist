@@ -31,5 +31,33 @@ ServerUrl: http://cmskos.bekaks.net:777
 Username: MirsadShabani
 Password: DCJOUFH50J
    ```
-    
-
+      ```
+ServerUrl: http://calipsosm.xyz:80
+Username: Alfredo-Pereira
+Password: khRZ5JZTufEE
+   ```
+ ```
+ServerUrl: http://185.182.193.203:25461
+Username: jaydb2324
+Password: 493367254
+   ```
+ ```
+ServerUrl: http://swedtv.net:2095
+Username: jaimevillarroel
+Password: xCPJRfqU8dCF
+   ```
+```
+ServerUrl: http://xxip25.top:8080
+Username: 25220837
+Password: 51659469
+   ```
+```
+ServerUrl: http://xxip25.top:8080
+Username: 1yNyea
+Password: 123956
+   ```
+```
+ServerUrl: http://iptvde.de:8080
+Username: AdnanCetinn
+Password: ka5mphJ
+   ```
