@@ -31,7 +31,7 @@ ServerUrl: http://cmskos.bekaks.net:777
 Username: MirsadShabani
 Password: DCJOUFH50J
    ```
-      ```
+   ```
 ServerUrl: http://calipsosm.xyz:80
 Username: Alfredo-Pereira
 Password: khRZ5JZTufEE
