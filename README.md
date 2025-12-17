@@ -13,8 +13,8 @@ The following are example M3u8 and Xtream playlist credentials for free channels
 
   ```
 ServerUrl: http://xxip25.top:8080
-Username: m1pA6E
-Password: 285356
+Username: Sm7hfz
+Password: 030221
    ```
  ```
 ServerUrl: http://185.182.193.203:25461
