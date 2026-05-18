@@ -12,9 +12,9 @@ The following are example M3u8 and Xtream playlist credentials for free channels
  
 
   ```
-ServerUrl: http://xxip25.top:8080
-Username: Sm7hfz
-Password: 030221
+ServerUrl: http://prys.xyz
+Username: 5575814403nelsinho
+Password: 4356347123
    ```
  ```
 ServerUrl: http://185.182.193.203:25461
@@ -22,43 +22,43 @@ Username: jaydb2324
 Password: 493367254
    ```
 ```
-ServerUrl: http://edge.19741977.network
-Username: 98:06:3C:5E:34:E5
-Password: yOR2rCjuyEA0
+ServerUrl: http://prys.xyz
+Username: marcos45673
+Password: vitoria34265
    ```
 ```
-ServerUrl: http://iptvde.de:8080
-Username: AdnanCetinn
-Password: ka5mphJ
+ServerUrl: http://prys.xyz
+Username: 006012431243
+Password: 950413624647
    ```
 ```
-ServerUrl: http://206.212.244.71:8080
-Username: Abxc5k
-Password: 363887
+ServerUrl: http://line.mywolftv.net
+Username: premium
+Password: premium1
    ```
 ```
-ServerUrl: http://xxip25.top:8080
-Username: sbFUB6
-Password: 581141
+ServerUrl: http://iptvh2o.com:2082
+Username: AbderrahimAjouaou
+Password: AqcCu8E4RUTz
    ```
 ```
-ServerUrl: http://xxip25.top:8080
-Username: Rws@rwsconsultinc.ca
-Password: b5198578806s
+ServerUrl: http://proxy.nr3.xyz
+Username: max289
+Password: 991374465
    ```
 ```
-ServerUrl: http://xxip25.top:8080
-Username: Sh@M@5764
-Password: 9Bkvq8 0Tvv
+ServerUrl: http://tvmate.icu:8080
+Username: lebeaupapa@hotmail.com
+Password: ZAGB425ffa
    ```
 ```
-ServerUrl: http://xxip25.top:8080
-Username: shacaray@yahoo.com
-Password: shacaray@2023
+ServerUrl: http://lmdns.me
+Username: 1702857are32484
+Password: 983590
    ```
 ```
-ServerUrl: http://xxip25.top:8080
-Username: shortygeecarter@gmail.com
-Password: shortygeecarter@2024
+ServerUrl: http://vraws.com
+Username: 5579935946
+Password: 6668397477
    ```
 
