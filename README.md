@@ -10,11 +10,7 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 http://iptvh2o.com:2082/get.php?username=AbderrahimAjouaou&password=AqcCu8E4RUTz&type=m3u&output=ts
 
-```
-ServerUrl: http://line.mywolftv.net
-Username: premium
-Password: premium1
-   ```
+
   ```
 ServerUrl: http://neosfpoo.top:8080
 Username: 8461773685460
@@ -60,5 +56,10 @@ Password: 983590
 ServerUrl: http://vraws.com
 Username: 5579935946
 Password: 6668397477
+   ```
+```
+ServerUrl: http://line.mywolftv.net
+Username: premium
+Password: premium1
    ```
 
