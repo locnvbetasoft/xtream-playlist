@@ -71,9 +71,4 @@ ServerUrl:  http://vraws.com
 Username: 5579935946
 Password: 6668397477
    ```
-```
-ServerUrl:  http://nitroscor.xyz
-Username: 23876546
-Password: 64567832
-   ```
 
