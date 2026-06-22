@@ -56,11 +56,6 @@ ServerUrl: http://line.mywolftv.net
 Username: premium
 Password: premium1
    ```
-   ```
-ServerUrl: http://fortv.cc:8080
-Username: asharp
-Password: 5points
-   ```
 ```
 ServerUrl: http://lmdns.me
 Username: 1702857are32484
