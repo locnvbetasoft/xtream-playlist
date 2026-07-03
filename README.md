@@ -20,7 +20,7 @@ Username: 68:72:c3:b3:49:1a
 Password: dzC65lajHZGJM7v
    ```
 ```
-ServerUrl: http://cdn-rocketstream.club:8080/
+ServerUrl: http://cdn-rocketstream.club:8080
 Username: zRDP8Zcqh7kf
 Password: uuh5a2zDyTZK
    ```
