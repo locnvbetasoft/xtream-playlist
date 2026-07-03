@@ -9,7 +9,21 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
-
+  ```
+ServerUrl: http://cane.nero.ws
+Username: cicciofro
+Password: sasy
+   ```
+```
+ServerUrl: http://mydroon.com
+Username: 68:72:c3:b3:49:1a
+Password: dzC65lajHZGJM7v
+   ```
+```
+ServerUrl: http://cdn-rocketstream.club:8080/
+Username: zRDP8Zcqh7kf
+Password: uuh5a2zDyTZK
+   ```
   ```
 ServerUrl: http://v3tv.live:80
 Username: kamal_566951
@@ -57,10 +71,5 @@ Username: 5579935946
 Password: 6668397477
    ```
 
-```
-ServerUrl: http://lmdns.me
-Username: 1702857are32484
-Password: 983590
-   ```
 
 
