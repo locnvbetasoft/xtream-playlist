@@ -47,7 +47,7 @@ Password: premium1
 ```
 ServerUrl: http://ottsansat.org:88
 Username: 02061260013184
-Password: yltZfmuTvqPSNRz
+Password: yItZfmuTvqPSNRz
    ```
 
 ```
