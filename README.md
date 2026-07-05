@@ -45,9 +45,9 @@ Username: premium
 Password: premium1
    ```
 ```
-ServerUrl: http://iptvh2o.com:2082
-Username: AbderrahimAjouaou
-Password: AqcCu8E4RUTz
+ServerUrl: http://ottsansat.org:88
+Username: 02061260013184
+Password: yltZfmuTvqPSNRz
    ```
 
 ```
