@@ -9,21 +9,8 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
-  ```
-ServerUrl: http://cane.nero.ws
-Username: cicciofro
-Password: sasy
-   ```
-```
-ServerUrl: http://mydroon.com
-Username: 68:72:c3:b3:49:1a
-Password: dzC65lajHZGJM7v
-   ```
-```
-ServerUrl: http://cdn-rocketstream.club:8080
-Username: zRDP8Zcqh7kf
-Password: uuh5a2zDyTZK
-   ```
+
+
   ```
 ServerUrl: http://v3tv.live:80
 Username: kamal_566951
@@ -34,59 +21,30 @@ ServerUrl: http://neosfpoo.top:8080
 Username: 8461773685460
 Password: 881b84d889e9
    ```
- ```
-ServerUrl: http://185.182.193.203:25461
-Username: jaydb2324
-Password: 493367254
-   ```
-```
-ServerUrl: http://line.mywolftv.net
-Username: premium
-Password: premium1
-   ```
 ```
 ServerUrl: http://ottsansat.org:88
 Username: 02061260013184
 Password: yItZfmuTvqPSNRz
    ```
+ ```
+ServerUrl: http://fvpb16fr.fans
+Username: Marcos3003
+Password: TY9RfG4e
+   ```
+```
+ServerUrl: http://galaxy.blcplay.com
+Username: 26887863
+Password: 15467027
+   ```
+```
+ServerUrl: http://gamingtuga.xyz:80
+Username: aqQkArpi5B
+Password: KuvOzn57b8
+   ```
+```
+ServerUrl: http://gabriele2018.xsho3solutions.com
+Username: BrunoSantoro
+Password: cNpJZkWxZegR3
+   ```
 
-```
-ServerUrl: http://proxy.nr3.xyz
-Username: max289
-Password: 991374465
-   ```
-```
-ServerUrl: http://tvmate.icu:8080
-Username: lebeaupapa@hotmail.com
-Password: ZAGB425ffa
-   ```
-```
-ServerUrl: http://lmdns.me
-Username: 1702857are32484
-Password: 983590
-   ```
-```
-ServerUrl: http://vraws.com
-Username: 5579935946
-Password: 6668397477
-   ```
-```
-ServerUrl: http://103trkm25.xyz:8080
-Username: tarcan@kaya
-Password: 07dg10sc24
-   ```
-```
-ServerUrl: http://103trkm25.xyz:8080
-Username: receptopaloglu
-Password: HDcj2hz5Ha
-   ```
-```
-ServerUrl: http://103trkm25.xyz:8080
-Username: kenan1912
-Password: 1912kenan1912
-   ```
-```
-ServerUrl: http://103trkm25.xyz:8080
-Username: can35cn
-Password: cankmsucan
-   ```
+
