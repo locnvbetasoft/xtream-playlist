@@ -11,11 +11,7 @@ The following are example M3u8 and Xtream playlist credentials for free channels
 
 
 
-  ```
-ServerUrl: http://v3tv.live:80
-Username: kamal_566951
-Password: ZAUzpBEy
-   ```
+  
   ```
 ServerUrl: http://neosfpoo.top:8080
 Username: 8461773685460
