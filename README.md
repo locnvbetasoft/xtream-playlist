@@ -12,16 +12,12 @@ The following are example M3u8 and Xtream playlist credentials for free channels
 
 
   
-  ```
-ServerUrl: http://neosfpoo.top:8080
-Username: 8461773685460
-Password: 881b84d889e9
-   ```
 ```
 ServerUrl: http://ottsansat.org:88
 Username: 02061260013184
 Password: yItZfmuTvqPSNRz
    ```
+
  ```
 ServerUrl: http://fvpb16fr.fans
 Username: Marcos3003
