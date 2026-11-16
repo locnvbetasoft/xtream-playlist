@@ -10,18 +10,18 @@ Using IPTV M3u8 links in 2025 is an excellent way to enhance your TV viewing exp
 The following are example M3u8 and Xtream playlist credentials for free channels.  **Please be aware that these channels may not be reliable and may be changed/removed at any time.**
 
 
-  
+   ```
+ServerUrl: http://legendking.net:80
+Username: solaymanezakaria
+Password: RpWgR2xqEjZITdw
+   ```
 ```
 ServerUrl: http://ottsansat.org:88
 Username: 02061260013184
 Password: yItZfmuTvqPSNRz
    ```
 
- ```
-ServerUrl: http://legendking.net:80
-Username: solaymanezakaria
-Password: RpWgR2xqEjZITdw
-   ```
+
 ```
 ServerUrl: http://galaxy.blcplay.com
 Username: 26887863
