@@ -20,58 +20,6 @@ ServerUrl: http://ottsansat.org:88
 Username: 02061260013184
 Password: yItZfmuTvqPSNRz
    ```
-
-
-```
-ServerUrl: http://galaxy.blcplay.com
-Username: 26887863
-Password: 15467027
-   ```
-```
-ServerUrl: http://gamingtuga.xyz:80
-Username: aqQkArpi5B
-Password: KuvOzn57b8
-   ```
-```
-ServerUrl: http://gabriele2018.xsho3solutions.com
-Username: BrunoSantoro
-Password: cNpJZkWxZegR3
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: bmg12mj030
-Password: an8ht82
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: 0JHHJ36
-Password: C46L9RD
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: e1t4765
-Password: 3sx4nus
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: 61d99yg
-Password: etgl9j5
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: 2e3ljpj
-Password: wnsmmkf
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: 221843157148590
-Password: 2460738434
-   ```
-```
-ServerUrl: http://xtremeott.site
-Username: mohamedxelraay
-Password: 4UYJ6U2
-   ```
 ```
 ServerUrl: http://xtremeott.site
 Username:2BX4QS5
@@ -84,6 +32,41 @@ Password: HJSV3BV
    ```
 ```
 ServerUrl: http://xtremeott.site
-Username: 668713M
-Password: ZK6VVRS
+Username: 221843157148590
+Password: 2460738434
    ```
+```
+ServerUrl: http://xtremeott.site
+Username: mohamedxelraay
+Password: 4UYJ6U2
+   ```
+```
+ServerUrl: http://sopa.top:80
+Username: rogerio1234
+Password: rogerio1234
+   ```
+
+```
+ServerUrl: http://vividmedia.xyz:80
+Username: tmcdonald
+Password: tmcdonald
+   ```
+
+```
+ServerUrl: http://apk4k.org:80
+Username: salama01159670700
+Password:01159670700ssshhh
+   ```
+```
+ServerUrl: http://xtremeott.site
+Username: e1t4765
+Password: 3sx4nus
+   ```
+
+```
+ServerUrl: http://xtremeott.site
+Username: 2e3ljpj
+Password: wnsmmkf
+   ```
+
+
